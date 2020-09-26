@@ -47,15 +47,15 @@ shop:
             - Protect yourself with armor! Click here.
         offers:
             - item1:
-                item: CLAY_BRICK
-                amount: 1
+                item: GOLD_INGOT
+                amount: 45
               reward:
                 item: LEATHER_HELMET
                 amount: 1
                 enchants:
                     0: 1
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 1
               reward:
                 item: LEATHER_LEGGINGS
@@ -63,7 +63,7 @@ shop:
                 enchants:
                     0: 1
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 1
               reward:
                 item: LEATHER_BOOTS
@@ -126,7 +126,7 @@ shop:
             - Click here to get sword for attacking your enemies
         offers:
             - item1:
-                item: CLAY_BRICK
+                item: GOLD_INGOT
                 amount: 8
               reward:
                 item: 280
