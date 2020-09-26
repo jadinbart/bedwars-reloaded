@@ -47,7 +47,7 @@ shop:
             - Protect yourself with armor! Click here.
         offers:
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 1
               reward:
                 item: LEATHER_HELMET
@@ -55,7 +55,7 @@ shop:
                 enchants:
                     0: 1
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 1
               reward:
                 item: LEATHER_LEGGINGS
@@ -63,7 +63,7 @@ shop:
                 enchants:
                     0: 1
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 1
               reward:
                 item: LEATHER_BOOTS
@@ -125,25 +125,25 @@ shop:
         lore:
             - Click here to get sword for attacking your enemies
         offers:
-            - item1:
-                item: CLAY_BRICK
-                amount: 8
+            - item1: IRON_SWORD
+                item: GOLD
+                amount: 7
               reward:
                 item: 280
                 amount: 1
                 enchants:
                     19: 1
-            - item1:
+            - item1:STONE_SWORD
                 item: IRON_INGOT
-                amount: 1
+                amount: 10
               reward:
                 item: 283
                 amount: 1
                 enchants:
                     16: 1
-            - item1:
-                item: IRON_INGOT
-                amount: 3
+            - item1:DIAMOND_SWORD
+                item: EMERALD
+                amount: 2
               reward:
                 item: 283
                 amount: 1
@@ -186,7 +186,7 @@ shop:
         lore:
             - Prove yourself as a marksman with these wonderful bows
         offers:
-            - item1:
+            - item1: 
                 item: GOLD_INGOT
                 amount: 3
               reward:
@@ -246,14 +246,14 @@ shop:
             - Are you hungry? Get something to eat.
         offers: 
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 4
               reward:
                 item: GRILLED_PORK
                 amount: 2
-            - item1:
-                item: IRON_INGOT
-                amount: 2
+            - item1:GOLDEN_APPLE
+                item: GOLD_INGOT
+                amount: 3
               reward:
                 item: 322
                 amount: 1
@@ -271,60 +271,60 @@ shop:
         lore:
             - Destroy others blocks? Use these pickaxes.
         offers:
-            - item1:
-                item: CLAY_BRICK
-                amount: 4
+            - item1:WOODEN_PICKAXE
+                item: IRON_INGOT
+                amount: 10
               reward:
-                item: IRON_PICKAXE
-                amount: 1
+                item: STONE_PICKAXE
+                amount: 20
                 enchants:
                     35: 1
-            - item1:
-                item: IRON_INGOT
-                amount: 2
+            - item1: IRON_PICKAXE
+                item: GOLD_INGOT
+                amount: 10
               reward:
-                item: IRON_PICKAXE
-                amount: 1
+                item: DIAMOND_PICKAXE
+                amount: 2
                 enchants:
                     35: 2
-            - item1:
-                item: GOLD_INGOT
-                amount: 1
+            - item1: DIAMON_PICKAXE
+                item: EMERALD
+                amount: 4
               reward:
                 item: IRON_PICKAXE
                 amount: 1
                 enchants:
                     35: 3
     blocks:
-        item: SANDSTONE
+        item: YELLOW_WOOL
         name: Blöcke
         order: 60
         permission: bw.base
         lore:
             - Get to the others! Possible with blocks.
         offers:
-            - item1:
-                item: CLAY_BRICK
-                amount: 1
+            - item1: YELLOW_WOOL
+                item: IRON_INGOT
+                amount: 12
               reward:
                 item: 24
                 meta: 2
-                amount: 2
-            - item1:
-                item: CLAY_BRICK
-                amount: 7
+                amount: 4
+            - item1:OAK_PLANKS
+                item: IRON_INGOT
+                amount: 8
               reward:
                 item: 121
-                amount: 1
-            - item1:
+                amount: 4
+            - item1:ENDSTONE
                 item: IRON_INGOT
                 amount: 3
               reward:
                 item: 42
-                amount: 1
-            - item1:
-                item: CLAY_BRICK
-                amount: 15
+                amount: 24
+            - item1:OBSIDIAN
+                item: EMERALD
+                amount: 6
               reward:
                 item: 89
                 amount: 4
@@ -387,7 +387,7 @@ shop:
                 item: 287
                 amount: 1
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 64
               reward:
                 name: '&4Schutzmauer'
