@@ -47,15 +47,15 @@ shop:
             - Protect yourself with armor! Click here.
         offers:
             - item1:
-                item: CLAY_BRICK
-                amount: 1
+                item: EMERALDS
+                amount: 5
               reward:
                 item: LEATHER_HELMET
                 amount: 1
                 enchants:
                     0: 1
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 1
               reward:
                 item: LEATHER_LEGGINGS
@@ -63,7 +63,7 @@ shop:
                 enchants:
                     0: 1
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 1
               reward:
                 item: LEATHER_BOOTS
@@ -126,8 +126,8 @@ shop:
             - Click here to get sword for attacking your enemies
         offers:
             - item1:
-                item: CLAY_BRICK
-                amount: 8
+                item: EMERALDS
+                amount: 2
               reward:
                 item: 280
                 amount: 1
@@ -246,7 +246,7 @@ shop:
             - Are you hungry? Get something to eat.
         offers: 
             - item1:
-                item: CLAY_BRICK
+                item: IRON_INGOT
                 amount: 4
               reward:
                 item: GRILLED_PORK
@@ -272,16 +272,16 @@ shop:
             - Destroy others blocks? Use these pickaxes.
         offers:
             - item1:
-                item: CLAY_BRICK
-                amount: 4
+                item: EMERALDS
+                amount: 2
               reward:
                 item: IRON_PICKAXE
                 amount: 1
                 enchants:
                     35: 1
             - item1:
-                item: IRON_INGOT
-                amount: 2
+                item: GOLD_INGOT
+                amount: 10
               reward:
                 item: IRON_PICKAXE
                 amount: 1
@@ -304,14 +304,14 @@ shop:
             - Get to the others! Possible with blocks.
         offers:
             - item1:
-                item: CLAY_BRICK
+                item: EMERALDS
                 amount: 1
               reward:
                 item: 24
                 meta: 2
                 amount: 2
             - item1:
-                item: CLAY_BRICK
+                item: EMERALDS
                 amount: 7
               reward:
                 item: 121
@@ -323,13 +323,13 @@ shop:
                 item: 42
                 amount: 1
             - item1:
-                item: CLAY_BRICK
+                item: EMERALDS
                 amount: 15
               reward:
                 item: 89
                 amount: 4
             - item1:
-                item: CLAY_BRICK
+                item: EMERALDS
                 amount: 4
               reward:
                 item: 20
@@ -387,7 +387,7 @@ shop:
                 item: 287
                 amount: 1
             - item1:
-                item: CLAY_BRICK
+                item: EMERALDS
                 amount: 64
               reward:
                 name: '&4Schutzmauer'
