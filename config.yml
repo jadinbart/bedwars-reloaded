@@ -634,8 +634,8 @@ ressource:
 ###   type: short (potion) or byte (any other item)
 ###   The meta byte which should be added to the item
     bronze:
-        item: CLAY_BRICK
-        spawn-interval: 1000
+        item: DIAMONDS
+        spawn-interval: 3000
         amount: 1
         spread: 1.0
         name: "&4Bronze"
