@@ -633,7 +633,7 @@ ressource:
 ###  meta:
 ###   type: short (potion) or byte (any other item)
 ###   The meta byte which should be added to the item
-    bronze:
+    emerald:
         item: Emeralds
         spawn-interval: 10000
         amount: 1
@@ -775,7 +775,7 @@ specials:
         # type: int or string
         # The item-type which should be used for the wall. Should be 
         # a real block!
-        block: SANDSTONE
+        block:  yellow wool
         
         # Wall width
         # type: int
